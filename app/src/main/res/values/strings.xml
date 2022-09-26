@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">BMI Calculator</string>
+    <string name="underweightString">You are underweight</string>
+    <string name="normalWeightString">You have normal weight</string>
+    <string name="overweightString">You are overweight</string>
+    <string name="obeseString">You are obese</string>
+    <string name="weightHeading">Weight</string>
+    <string name="heightHeading">Height</string>
+    <string name="resultHeading">Result</string>
+    <string name="heightUnit">in cm</string>
+    <string name="weightUnit">in kg</string>
+    <string name="calculateButtonText">Calculate</string>
+    <string name="weightSpeakableText">Enter your weight here in kilograms</string>
+    <string name="heightSpeakableText">Enter your height here in centimeters</string>
+    <string name="minimumBMIValue">0</string>
+    <string name="maximumBMIValue">50</string>
 </resources>
